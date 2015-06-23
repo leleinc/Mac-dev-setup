@@ -13,4 +13,5 @@
 - 更多设置，可参考 [打造好用的终端](http://imwuyu.me/talk-about/cool-iterm2.html/)
 
 [![Screen](http://orangehat.u.qiniudn.com/iterm2-theme.png)](http://orangehat.u.qiniudn.com/iterm2-theme.png)
+再测试下
 
